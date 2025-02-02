@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Henrique Alves e atualmente so estudante de desenvolvimento de softwares</h2>
+<h2 align="left">Olá 👋! Meu nome é Henrique Alves e atualmente sou estudante de desenvolvimento de softwares</h2>
 
 ###
 
