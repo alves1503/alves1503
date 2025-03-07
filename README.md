@@ -40,6 +40,7 @@
   <a href="https://www.linkedin.com/in/henriquedev15/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://www.tiktok.com/@ricksz260"><img src="https://camo.githubusercontent.com/f3bc89c29966881383f65dfd368c0aba2d48c2943cf924245e800cc04ac585ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54696b546f6b2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d74696b746f6b266c6f676f436f6c6f723d7768697465" alt="TikTok" data-canonical-src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" style="max-width: 100%;"></a>
 </div>
 
 ###
