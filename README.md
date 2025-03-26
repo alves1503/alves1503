@@ -1,8 +1,20 @@
-<h2 align="left">Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas e atuo como Assistente de PCP na Líder Interiores . Minha rotina envolve planejamento e controle da produção, contribuindo para a eficiência operacional e otimização de processos.
+# 👋 Olá, seja bem-vindo ao meu perfil!  
 
-Tenho conhecimento em HTML, CSS, JavaScript, Bootstrap, Git/GitHub, logica de programação em 'Portugol' e 'C', Photoshop e Figma. Busco constantemente aprimorar minhas habilidades em desenvolvimento de software, estudando além da faculdade com cursos complementares relacionado a Java e SQL .
+## 💻 Sobre Mim  
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na **PUC Minas**  
+🔧 **Assistente de PCP** na **Líder Interiores**  
 
-Meu objetivo é evoluir profissionalmente na área de tecnologia e desenvolvimento , aplicando meu conhecimento para criar soluções eficientes e impactantes. 🚀</h2>
+Atuo no **planejamento e controle da produção**, buscando eficiência e otimização de processos. Além disso, estou sempre aprimorando minhas habilidades em **desenvolvimento de software**.  
+
+## 🚀 Tecnologias e Ferramentas  
+🔹 **Desenvolvimento:** HTML, CSS, JavaScript, Bootstrap  
+🔹 **Lógica de Programação:** Portugol, C  
+🔹 **Ferramentas:** Git/GitHub, Photoshop, Figma  
+🔹 **Estudos Atuais:** Java, SQL  
+
+💡 Busco crescer profissionalmente na **área de tecnologia**, aplicando meu conhecimento para criar **soluções eficientes e impactantes**.  
+
+---
 
 ###
 
