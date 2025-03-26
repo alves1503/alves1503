@@ -1,4 +1,8 @@
-<h2 align="left">Olá 👋! Meu nome é Henrique Alves e atualmente sou estudante do curso de Análise e desenvolvimento de sitemas pela instituição PUCMINAS</h2>
+<h2 align="left">Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas e atuo como Assistente de PCP na Líder Interiores . Minha rotina envolve planejamento e controle da produção, contribuindo para a eficiência operacional e otimização de processos.
+
+Tenho conhecimento em HTML, CSS, JavaScript, Bootstrap, Git/GitHub, logica de programação em 'Portugol' e 'C', Photoshop e Figma. Busco constantemente aprimorar minhas habilidades em desenvolvimento de software, estudando além da faculdade com cursos complementares relacionado a Java e SQL .
+
+Meu objetivo é evoluir profissionalmente na área de tecnologia e desenvolvimento , aplicando meu conhecimento para criar soluções eficientes e impactantes. 🚀</h2>
 
 ###
 
