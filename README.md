@@ -10,7 +10,7 @@ Atuo no **planejamento e controle da produção**, buscando eficiência e otimiz
 🔹 **Desenvolvimento:** HTML, CSS, JavaScript, Bootstrap  
 🔹 **Lógica de Programação:** Portugol, C  
 🔹 **Ferramentas:** Git/GitHub, Photoshop, Figma  
-🔹 **Estudos Atuais:** Java, SQL  
+🔹 **Estudos Atuais:** Java,JavaScript + Node.js, SQL  
 
 💡 Busco crescer profissionalmente na **área de tecnologia**, aplicando meu conhecimento para criar **soluções eficientes e impactantes**.  
 
