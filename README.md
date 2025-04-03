@@ -2,9 +2,7 @@
 
 ## 💻 Sobre Mim  
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na **PUC Minas**  
-🔧 **Assistente de PCP** na **Líder Interiores**  
-
-Atuo no **planejamento e controle da produção**, buscando eficiência e otimização de processos. Além disso, estou sempre aprimorando minhas habilidades em **desenvolvimento de software**.  
+🔧 **Assistente de PCP** na **Líder Interiores**    
 
 ## 🚀 Tecnologias e Ferramentas  
 🔹 **Desenvolvimento:** HTML, CSS, JavaScript, Bootstrap  
