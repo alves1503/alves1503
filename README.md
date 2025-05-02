@@ -1,11 +1,11 @@
 # 👋 Olá, seja bem-vindo ao meu perfil!  
 
 ## 💻 Sobre Mim  
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na **PUC Minas**  
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na **Pontifícia Universidade Católica de Minas Gerais**  
 🔧 **Assistente de PCP** na **Líder Interiores**    
 
 ## 🚀 Tecnologias e Ferramentas  
-🔹 **Desenvolvimento:** HTML, CSS, JavaScript, Bootstrap  
+🔹 **Desenvolvimento:** HTML5, CSS3, JavaScript, Bootstrap  
 🔹 **Lógica de Programação:** Portugol, C  
 🔹 **Ferramentas:** Git/GitHub, Photoshop, Figma  
 🔹 **Estudos Atuais:** JavaScript + Node.js, SQL  
