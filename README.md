@@ -6,9 +6,13 @@
 
 ## 🚀 Tecnologias e Ferramentas  
 🔹 **Desenvolvimento:** HTML5, CSS3, JavaScript, Bootstrap  
+
 🔹 **Lógica de Programação:** Portugol, C, C# 
+
 🔹 **Ferramentas:** Git/GitHub, Photoshop, Figma  
+
 🔹 **Estudos Atuais:** JavaScript, SQL, C#, Docker, Azure  
+
 🔹 **Distro linux:** Fedora
 
 💡 Busco crescer profissionalmente na **área de tecnologia**, aplicando meu conhecimento para criar **soluções eficientes e impactantes**.  
