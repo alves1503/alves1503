@@ -89,13 +89,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alves1503/alves1503/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 <picture>
