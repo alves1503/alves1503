@@ -6,13 +6,9 @@
 
 ## 🚀 Tecnologias e Ferramentas  
 🔹 **Desenvolvimento:** HTML5, CSS3, JavaScript, Bootstrap  
-
-🔹 **Lógica de Programação:** Portugol, C, C# 
-
+🔹 **Lógica de Programação:** Portugol, C, C#  
 🔹 **Ferramentas:** Git/GitHub, Photoshop, Figma  
-
-🔹 **Estudos Atuais:** JavaScript, SQL, C#, Docker, Azure  
-
+🔹 **Estudos Atuais:** JavaScript, SQL, C#, Docker, Aws  
 🔹 **Distro linux:** Fedora
 
 💡 Busco crescer profissionalmente na **área de tecnologia**, aplicando meu conhecimento para criar **soluções eficientes e impactantes**.  
@@ -22,37 +18,12 @@
 
 <h3 align="left">🔥 Minhas estatísticas:</h3>
 
-###
-###
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,mysql,docker,git,github,ps,figma,vscode" />
+  </a>
+</p>
 
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="60" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-</div>
 
 ###
 ###
