@@ -4,28 +4,43 @@
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na **Pontifícia Universidade Católica de Minas Gerais**  
 🔧 **Assistente de PCP** na **Líder Interiores**    
 
-## 🚀 Tecnologias e Ferramentas  
-🔹 **Desenvolvimento:** HTML5, CSS3, JavaScript, Bootstrap  
-🔹 **Lógica de Programação:** Portugol, C, C#  
-🔹 **Ferramentas:** Git/GitHub, Photoshop, Figma  
-🔹 **Estudos Atuais:** JavaScript, SQL, C#, Docker, Aws  
-🔹 **Distro linux:** Fedora
+## 🚀 Tecnologias e Ferramentas
 
-💡 Busco crescer profissionalmente na **área de tecnologia**, aplicando meu conhecimento para criar **soluções eficientes e impactantes**.  
+### 💻 Front-End
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+### ⚙️ Back-End
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![C#](https://skillicons.dev/icons?i=cs)
+
+### 🗄️ Banco de Dados
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+
+### 🛠️ DevOps
+![Linux](https://skillicons.dev/icons?i=linux)
+![Docker](https://skillicons.dev/icons?i=docker)
+
+### 🧰 Ferramentas
+![Git](https://skillicons.dev/icons?i=git)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Photoshop](https://skillicons.dev/icons?i=ps)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+
+
+
+💡 Meu objetivo é crescer na **área de tecnologia**, aplicando conhecimento para desenvolver **soluções eficientes e impactantes**.  
 
 ---
 ###
 
 <h3 align="left">🔥 Minhas estatísticas:</h3>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,cs,docker,git,github,ps,figma,vscode,postman,linux" />
-  </a>
-</p>
-
-
-###
 ###
 
 
