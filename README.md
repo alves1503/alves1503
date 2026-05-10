@@ -2,7 +2,7 @@
 
 # `< Olá, eu sou o Henrique />` 👾
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+PUC+Minas;Monitor+de+Front-End;Assistente+de+PCP;Apaixonado+por+tecnologia+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+PUC+Minas;Full+-+Stack+Developer;Assistente+de+TI;Apaixonado+por+tecnologia+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
