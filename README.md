@@ -1,184 +1,115 @@
 <div align="center">
 
-# Henrique Alves 👋
+# Henrique Alves
 
-### Full Stack Developer • Assistente de TI • ADS @ PUC Minas
+### Software Developer · Full Stack · Java & Spring
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Node.js+%7C+PHP+%7C+React+%7C+Java;APIs+REST+%7C+Docker+%7C+PostgreSQL;Integra%C3%A7%C3%B5es+com+IA+Generativa;Automa%C3%A7%C3%B5es+com+n8n" />
-
-<br>
+Desenvolvimento de sistemas, APIs REST, automações e integração com IA.
 
 <a href="https://github.com/alves1503">
-<img src="https://img.shields.io/github/followers/alves1503?style=for-the-badge&label=Followers"/>
+  <img src="https://img.shields.io/badge/GitHub-alves1503-181717?style=for-the-badge&logo=github"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=alves1503&style=for-the-badge&color=8A2BE2"/>
+<a href="https://www.linkedin.com/in/henriquedev15">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </div>
 
 ---
 
-# 💻 Sobre mim
+## 👨‍💻 Sobre mim
 
 Sou **Assistente de TI** e estudante de **Análise e Desenvolvimento de Sistemas na PUC Minas**.
 
-Tenho foco no desenvolvimento de aplicações **Full Stack**, criação de **APIs REST**, automações com **n8n**, integração com **Inteligência Artificial**, Docker e bancos de dados relacionais.
+Atuo no desenvolvimento e manutenção de sistemas, trabalhando principalmente com **backend, APIs REST, SQL, automações e integrações com Inteligência Artificial**.
 
-Atualmente venho aprofundando meus conhecimentos em **Python**, **Arquitetura de Software**, **Cloud Computing** e **IA Generativa**, sempre buscando desenvolver soluções escaláveis e voltadas para problemas reais.
+Atualmente estou direcionando meus estudos para **Java, Spring Boot, arquitetura de software e AWS**, com foco em desenvolvimento backend e engenharia de software.
 
-```javascript
-const henrique = {
-    role: "Full Stack Developer",
-
-    education: "ADS - PUC Minas",
-
-    currentJob: "Assistente de TI",
-
-    languages: [
-        "JavaScript",
-        "PHP",
-        "Java",
-        "C#",
-        "Python"
-    ],
-
-    technologies: [
-        "Node.js",
-        "React",
-        "Docker",
-        "PostgreSQL",
-        "MySQL",
-        "REST APIs"
-    ],
-
-    studying: [
-        "Python",
-        "Arquitetura de Software",
-        "Cloud",
-        "IA Generativa"
-    ]
-}
-```
+Tenho experiência profissional com **PHP, JavaScript, Node.js, Python, SQL, Docker e integração de APIs**.
 
 ---
 
-# 🚀 Tecnologias
+## 🛠️ Stack
 
-<div align="center">
+### Backend
 
-### Front-end
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind"/>
+### Frontend
 
-<br><br>
-
-### Back-end
-
-<img src="https://skillicons.dev/icons?i=nodejs,php,java,cs"/>
-
-<br><br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Banco de Dados
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br><br>
+### Infraestrutura e ferramentas
 
-### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github"/>
+---
 
-<br><br>
+## 📚 Atualmente estudando
 
-### Ferramentas
+- **Java + Spring Boot**
+- **Arquitetura de Software**
+- **AWS / Cloud Computing**
+- **React**
+- **Testes e boas práticas de backend**
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,ps"/>
+---
 
-<br><br>
+## 🚀 Projetos
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+### Sistemas e APIs
 
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+Projetos focados em desenvolvimento de aplicações, APIs REST, integração com bancos de dados e arquitetura backend.
+
+### Inteligência Artificial
+
+Projetos envolvendo integração de APIs de IA, automações, processamento de dados e aplicações com IA generativa.
+
+### Automação
+
+Soluções utilizando APIs, Python, Node.js e n8n para automatização de processos.
+
+> Projetos em destaque abaixo.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alves1503&show_icons=true&theme=dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alves1503&layout=compact&theme=dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📚 Atualmente estudando
-
-<div align="center">
-
-| Tecnologia | Objetivo |
-|------------|----------|
-| 🐍 Python | Back-end e IA |
-| 🤖 IA Generativa | Agentes Inteligentes |
-| ☁️ Cloud | Deploy e Infraestrutura |
-| 🏗️ Arquitetura de Software | Boas práticas e escalabilidade |
-
-</div>
-
----
-
-# 📈 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alves1503&show_icons=true&theme=dracula&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alves1503&layout=compact&theme=dracula&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=alves1503&theme=dracula&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribuições
-
-<div align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/alves1503/alves1503/output/pacman-contribution-graph-dark.svg"/>
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/alves1503/alves1503/output/pacman-contribution-graph.svg"/>
-
-<img src="https://raw.githubusercontent.com/alves1503/alves1503/output/pacman-contribution-graph.svg"/>
-
-</picture>
-
-</div>
-
----
-
-# 📫 Contato
+## 📫 Contato
 
 <div align="center">
 
 <a href="mailto:henriquefdalves15@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/henriquedev15">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://github.com/alves1503">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Transformando ideias em software através de código, automação e inteligência artificial.
 
 </div>
