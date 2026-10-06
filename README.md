@@ -65,7 +65,6 @@ Tenho experiência profissional com **PHP, JavaScript, Node.js, Python, SQL, Doc
 - **Java + Spring Boot**
 - **Arquitetura de Software**
 - **AWS / Cloud Computing**
-- **React**
 - **Testes e boas práticas de backend**
 
 ---
